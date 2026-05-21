@@ -1,6 +1,4 @@
 # sa03
-feature/halaman-login
-
 Tugas praktikum pemrograman web
 
 # anggota
