@@ -26,4 +26,8 @@ user_guide_src/cilexer/dist/
 user_guide_src/cilexer/pycilexer.egg-info/
 
 # ===== ENV / CONFIG LOCAL (kalau ada nanti) =====
+feature/halaman-login
 .env
+=======
+.env
+main
